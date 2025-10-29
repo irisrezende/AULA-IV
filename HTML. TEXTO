@@ -1,0 +1,5 @@
+<a href="index.html" class="text-gray-700 hover:text-teal-600 font-semibold border-b-2 border-teal-600 pb-1">Início</a>
+<a href="projetos.html" class="text-gray-700 hover:text-teal-600">Projetos</a>
+<p class="text-lg text-gray-700 max-w-3xl mx-auto">
+    Somos uma organização...
+</p>
